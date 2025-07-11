@@ -1,0 +1,12 @@
+com\yourcompany\myquestplugin\gui\QuestGUI$2.class
+com\yourcompany\myquestplugin\gui\QuestGUI$3.class
+com\yourcompany\myquestplugin\gui\QuestGUI.class
+com\yourcompany\myquestplugin\Quest.class
+com\yourcompany\myquestplugin\command\QuestCommand.class
+com\yourcompany\myquestplugin\gui\QuestGUI$ItemInputState.class
+com\yourcompany\myquestplugin\manager\QuestManager.class
+com\yourcompany\myquestplugin\MyQuestPlugin.class
+com\yourcompany\myquestplugin\gui\QuestGUI$QuestCreationState.class
+com\yourcompany\myquestplugin\listener\QuestListener.class
+com\yourcompany\myquestplugin\manager\QuestStorageManager.class
+com\yourcompany\myquestplugin\gui\QuestGUI$1.class

@@ -1,0 +1,24 @@
+name: MyQuestPlugin
+version: 1.0.0
+main: com.yourcompany.myquestplugin.MyQuestPlugin
+api-version: 1.20 # Sesuaikan dengan versi API server Anda, 1.20+ untuk 1.21.7
+authors: [YourName]
+description: A flexible quest system for players to create and complete missions.
+commands:
+  myquest:
+    description: Opens the quest creation GUI, lists quests, or claims stored items.
+    usage: /myquest [list|hasil|complete <questId>|getbook <questId>]
+    permission: myquestplugin.use
+permissions:
+  myquestplugin.use:
+    description: Allows players to use the base /myquest command.
+    default: true
+  myquestplugin.create:
+    description: Allows players to create new quests.
+    default: true
+  myquestplugin.claim_storage: # Izin baru untuk mengklaim item tersimpan
+    description: Allows players to claim items stored from completed quests.
+    default: true
+  myquestplugin.admin:
+    description: Allows admin commands (e.g., reloading plugin).
+    default: op
