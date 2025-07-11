@@ -23,8 +23,8 @@ Anda dapat melihat semua misi yang telah dibuat di server.
 
 Buku misi adalah item yang akan diberikan kepada pemain lain agar mereka dapat menyelesaikan misi Anda.
 
-* **Perintah:** /myquest getbook \<ID\_Misi\>  
-* **Fungsi:** Memberikan Anda buku misi untuk misi dengan ID spesifik.  
+* **Perintah:** /myquest list -> lihat buku
+* **Fungsi:** Memberikan Anda buku misi untuk misi yang anda pilih.  
   * **Catatan:** Anda biasanya akan mendapatkan buku misi secara otomatis setelah membuat misi baru. Perintah ini berguna jika Anda kehilangan buku misi atau ingin mendapatkan salinan tambahan.
 
 ## **4\. Menyelesaikan Misi**
