@@ -65,3 +65,11 @@ Jika Anda adalah pembuat misi, item yang dikumpulkan oleh pemain yang menyelesai
 
 * Pastikan Anda memiliki cukup ruang di inventaris Anda saat membuat misi (untuk buku misi) atau saat mengklaim hasil misi.  
 * Jika Anda mengalami masalah, pastikan Anda menggunakan versi plugin dan server Minecraft yang kompatibel.
+
+## **Catatan**
+* Masih dalam development, mohon maaf jika terdapat beberapa bug.
+* Untuk saat ini tidak tersedia untuk membuat quest mencari potion, namun dapat memberikan reward berupa potion.
+* Quest hanya berlaku sekali, jika telah diselesaikan orang lain maka tidak akan dapat di Selesaikan.
+* Dapat mengambil quest melalui /myquest list -> cari yang masih pending -> lihat quest.
+
+  Dikerjakan Penuh cinta oleh Arachi :)
