@@ -63,4 +63,6 @@ Jika Anda adalah pembuat misi, item yang dikumpulkan oleh pemain yang menyelesai
 * Quest hanya berlaku sekali, jika telah diselesaikan orang lain maka tidak akan dapat di Selesaikan.
 * Dapat mengambil quest melalui /myquest list -> cari yang masih pending -> lihat quest.
 
+Link video tutorial : https://youtu.be/T7kU88oSj3w?si=h7YgfmPX01iRU-Id
+
   Dikerjakan Penuh cinta oleh Arachi :)
