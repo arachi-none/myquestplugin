@@ -2,15 +2,6 @@
 
 Selamat datang di plugin MyQuest\! Plugin ini memungkinkan Anda untuk membuat, mengelola, dan menyelesaikan misi di server Minecraft Anda.
 
-## **Daftar Isi**
-
-1. [Membuat Misi Baru](https://www.google.com/search?q=%231-membuat-misi-baru)  
-2. [Melihat Daftar Misi](https://www.google.com/search?q=%232-melihat-daftar-misi)  
-3. [Mendapatkan Buku Misi](https://www.google.com/search?q=%233-mendapatkan-buku-misi)  
-4. [Menyelesaikan Misi](https://www.google.com/search?q=%234-menyelesaikan-misi)  
-5. [Mengklaim Hasil Misi (untuk Pembuat Misi)](https://www.google.com/search?q=%235-mengklaim-hasil-misi-untuk-pembuat-misi)  
-6. [Tips Tambahan](https://www.google.com/search?q=%23tips-tambahan)
-
 ## **1\. Membuat Misi Baru**
 
 Untuk membuat misi baru, gunakan perintah dasar /myquest.
